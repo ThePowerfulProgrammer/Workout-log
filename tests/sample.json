@@ -1,0 +1,86 @@
+{
+    "Bench press": [
+        "60x8 70x6 77.5x4 77.5x4 77.5x4 72.5x5 70x6 65x7 60x8+",
+        180
+    ],
+    "OHP": [
+        "8x12",
+        120
+    ],
+    "T-bar row": [
+        "3x10",
+        120
+    ],
+    "Cable Extension + Face Pull": [
+        "4x12",
+        60
+    ],
+    "Lateral raise": [
+        "3x12",
+        60
+    ],
+    "Squat": [
+        "116x1+",
+        240
+    ],
+    "Sumo deadlift": [
+        "110x5",
+        180
+    ],
+    "Hip thrust": [
+        "80x6",
+        120
+    ],
+    "lying leg curl": [
+        "32.5x10",
+        60
+    ],
+    "Hanging leg raises": [
+        "BWx12",
+        60
+    ],
+    "Bench Press Max": [
+        "90x1+",
+        180
+    ],
+    "C.G.B.P": [
+        "57.5x8",
+        120
+    ],
+    "Pull Ups": [
+        "BWx6",
+        120
+    ],
+    "Skullcrusher": [
+        "32.5x12",
+        90
+    ],
+    "Hammer curl": [
+        "20x8",
+        90
+    ],
+    "Max Deadlift": [
+        "152x1+",
+        240
+    ],
+    "Front Squat": [
+        "68x8+",
+        160
+    ],
+    "Shrugs": [
+        "70x10",
+        120
+    ],
+    "RDL": [
+        "80x8",
+        120
+    ],
+    "Calve Raises": [
+        "50x10",
+        60
+    ],
+    "Ball crunch": [
+        "7.5x12",
+        60
+    ]
+}

@@ -1,0 +1,22 @@
+{'Exercise': 'Bench Press', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'OHP', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'T-bar Row', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Face Pull + Cable Extension', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Incline Curl', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Squat', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Sumo Dead', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Hip Thrust', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'BSS', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Hyperextension', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Hanging leg raise', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Bench Press', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'C.G.B.P', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Pull Up', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Skull Crusher', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Hammer Curl', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Deadlift', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Front Squat', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Block Pull', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'RDL', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Hanging leg raise', 'Sets': '3x10', 'Rest': '90seconds'}
+{'Exercise': 'Calve Raise', 'Sets': '3x10', 'Rest': '90seconds'}
